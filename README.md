@@ -9,3 +9,5 @@ Requirements-:
   Basic idea of python lists, curses library.
   Python IDE(VS code, pycharm ,etc)
 
+Edit-:
+  I want someone to deploy it in a web application using flask or a desktop application using tkinter. ANY CONTRIBUTIONS ARE WELCOME.
